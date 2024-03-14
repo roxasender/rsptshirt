@@ -1,4 +1,4 @@
-import { navLinks } from "../constains";
+import { navLinks } from "../constants";
 
 export default function Nav() {
   return (

@@ -1,3 +1,5 @@
 import Nav from "./Nav.jsx"
+import Button from "./Button.jsx"
+import TshirtCard from "./TshirtCard.jsx"
 
-export { Nav }
+export { Nav, Button, TshirtCard }
