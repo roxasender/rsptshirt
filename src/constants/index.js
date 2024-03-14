@@ -1,4 +1,4 @@
-import { tshirt1, thumbnailTshirt1 } from "../assets/images"
+import { tshirt1, thumbnailTshirt1, tshirt2, thumbnailTshirt2, tshirt3, thumbnailTshirt3 } from "../assets/images"
 
 export const navLinks = [
     { href: "#home", label: "Home" },
@@ -12,14 +12,14 @@ export const tshirts = [
         thumbnail: thumbnailTshirt1,
         tshirt: tshirt1,
     },
-    // {
-    //     thumbnail: thumbnailTshirt2,
-    //     tshirt: tshirt2,
-    // },
-    // {
-    //     thumbnail: thumbnailTshirt3,
-    //     tshirt: tshirt3,
-    // },
+    {
+        thumbnail: thumbnailTshirt2,
+        tshirt: tshirt2,
+    },
+    {
+        thumbnail: thumbnailTshirt3,
+        tshirt: tshirt3,
+    },
 ];
 
 export const statistics = [

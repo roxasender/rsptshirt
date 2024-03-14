@@ -48,7 +48,7 @@ export default function Hero() {
               <TshirtCard
                 index={index}
                 imgURL={image}
-                changeBigShoeImage={(tshirt) => setTshirtImg(shoe)}
+                changeTshirtImage={(tshirt) => setTshirtImg(tshirt)}
                 tshirtImg={tshirtImg}
               />
             </div>
